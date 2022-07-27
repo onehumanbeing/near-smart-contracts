@@ -1,0 +1,12 @@
+{
+    "name":"StartArk NFT Testnet",
+    "symbol":"SAT",
+    "icon":"",
+    "base_uri": "https://ipfs.infura-ipfs.io/ipfs/",
+	"mint_price": 100000,
+    "royalties": {
+        "community.star-ark.testnet": 40,
+        "team.star-ark.testnet": 160,
+        "opshenry.testnet": 100
+    }
+}

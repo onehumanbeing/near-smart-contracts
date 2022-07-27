@@ -1,0 +1,1 @@
+near call $NFT_CONTRACT_NAME nft_mint '{"receiver_id": "opshenry.testnet", "title": "Alex Avatar", "media": "QmW7MoyiYmS5FquStXsPYuekVKa9o1ZQ6FJPYB3udhuara", "reference": "QmQVhBjq1yqJ62hkDMiM8pooDJoRXy6q3odg7vwS8q7obc"}' --accountId opshenry.testnet --gas 300000000000000 --depositYocto 1015230000000000000000000

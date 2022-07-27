@@ -1,0 +1,1 @@
+near call $NFT_CONTRACT_NAME update_metadata "$(<metadata.json)" --accountId=$NFT_CONTRACT_NAME

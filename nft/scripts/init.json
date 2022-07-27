@@ -1,0 +1,9 @@
+{
+    "metadata":{
+        "spec":"nft-1.0.0",
+        "name":"StartArk NFT Testnet",
+        "symbol":"SAT",
+        "icon":"",
+        "base_uri":"ipfs.io/ipfs"
+    }
+}
